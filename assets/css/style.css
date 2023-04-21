@@ -1898,6 +1898,12 @@ section {
   color: #013f7a;
 }
 
+@media (max-width: 480px) {
+  .hi-icon {
+    margin: 0 8px;
+  }
+}
+
 .hi-icon .fa {
   color: white;
 }
