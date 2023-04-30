@@ -1874,7 +1874,8 @@ section {
 
 #home {
   background: #f6f9fe;
-  height: 500px;
+  padding-top: 0;
+  padding-bottom: 0;
 }
 
 #about {
@@ -1883,4 +1884,35 @@ section {
 
 #card-bio {
   margin-top: 100px;
+}
+
+.card {
+/*   border: 1px solid red !important; */
+  border: none !important;
+  overflow: hidden;
+}
+
+.card .card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+@media(min-width:768px) {
+  .card {
+    height: 100vh;
+  }
+
+  .card div, .card img{
+    height: 100%;
+  }
+
+  .ajust_tamanho_texto {
+    max-width: 400px;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+  }
 }
