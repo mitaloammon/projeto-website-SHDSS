@@ -1915,4 +1915,10 @@ section {
     margin-right: auto;
     margin-left: auto;
   }
+
+  .card .card-body {
+    max-width: 600px;
+    width: 100%;
+    font-weight: 500;
+  }
 }
