@@ -1,14 +1,14 @@
-### Projeto WEB
+### WEB Project
 
-- Projeto Web Desenvolvido em parceria com o Dev [Marcos](https://github.com/MarcosV07) 
+- Web Project Developed in partnership with Dev [Marcos](https://github.com/MarcosV07)
 
-### Descrição
+### Description
 
-- Projeto para atender a demanda da empresa [SHDSS](https://shdss.org.br/) para a elaboração de um novo web site.
+- Project to meet the demand of the company [SHDSS](https://shdss.org.br/) for the development of a new web site.
 
-### Tecnologias
+### Technologies
 
-- As tecnologias utilizadas para o Desenvolvimento do Web Site foram:
+- The technologies used for the development of the website were:
 
  ```HTML5```
 
